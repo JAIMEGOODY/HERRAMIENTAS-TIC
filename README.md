@@ -1,5 +1,5 @@
 # HERRAMIENTAS-TIC
-PROYECTO PAGINA WEB SOBRE HERRAMIENTAS TIC:  https://jaimegoody.github.io/HERRAMIENTAS-TIC/ 
+PROYECTO PAGINA WEB SOBRE HERRAMIENTAS TIC:
 
 Hola!, bienvenid@ a mi pagina web ,espero puedas disfrutar del contenido que en este encontraras.
 
